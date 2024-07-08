@@ -1,4 +1,7 @@
 # Mall Billing System - With File Handling
 
+Made using C++
 
-Creating MALL Billing System with FIle handling and OOPS in C++
+CONCEPTS USED ->
+- File handling
+- OOPS
